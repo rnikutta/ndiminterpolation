@@ -21,9 +21,9 @@ A (slightly) interactive example is provided in
 [example.py](./example.py) . Run like this:
 
 ```
-    ipython --pylab
-    In[0]: import example
-    In[1]: ip, datacube, theta, mywave = example.example()
+ipython --pylab
+In[0]: import example
+In[1]: ip, datacube, theta, mywave = example.example()
 ```
 
 [example.png](./example.png) (shown above) is a preview of what you

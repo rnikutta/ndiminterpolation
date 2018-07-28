@@ -9,4 +9,5 @@ setup(
     description = 'Description of my package',
     packages = find_packages(),    
     install_requires = ['numpy', 'scipy', 'matplotlib'],
+    zip_safe = False,
 )
